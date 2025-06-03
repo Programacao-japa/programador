@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "op.mat.ari.C": "cpp"
+        "op.mat.ari.C": "cpp",
+        "Op.mat.2.C": "cpp"
     }
 }
