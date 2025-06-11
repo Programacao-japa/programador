@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "op.mat.ari.C": "cpp",
-        "Op.mat.2.C": "cpp"
+        "Op.mat.2.C": "cpp",
+        "Contas.resultados.C": "cpp"
     }
 }
