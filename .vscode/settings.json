@@ -4,6 +4,10 @@
         "Op.mat.2.C": "cpp",
         "Contas.resultados.C": "cpp",
         "Incremento.decremento.C": "cpp",
-        "Cov.d.Dados.C": "cpp"
+        "Cov.d.Dados.C": "cpp",
+        "float.2.C": "cpp",
+        "Float.3.C": "cpp",
+        "Float.4.C": "cpp",
+        "C.Prog.Cal.Notas.C": "cpp"
     }
 }
